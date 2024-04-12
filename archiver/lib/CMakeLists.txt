@@ -1,0 +1,13 @@
+add_library(
+    archiver 
+    archiver.h
+    archiver.cpp
+    archiver_creator.cpp
+    archiver_info.cpp
+    archiver_delete.cpp
+    archiver_merger.cpp
+    hamming_codes.h
+    hamming_codes.cpp
+    heap.h
+    heap.cpp
+)
